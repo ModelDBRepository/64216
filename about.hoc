@@ -1,0 +1,8 @@
+xpanel("About RARE-RETINA")
+xlabel("RARE-RETINA is a NEURON based model by Xiaodong Liu and D.E. Kourennyi.")
+xlabel("For more information see http://dek.cwru.edu/bme/lab/lab_eng.htm")
+xlabel("")
+xlabel("                       email: rare@ieee.org")
+xlabel("                       Version 1.1 June 2001") 
+xpanel(320,0)
+

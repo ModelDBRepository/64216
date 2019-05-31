@@ -1,0 +1,8 @@
+load_file("nrngui.hoc")
+load_file("ConeLRNewH.hoc")
+// the following brings the graphs into view
+{Graph[0].exec_menu("View = plot")}
+{Graph[1].exec_menu("View = plot")}
+{Graph[3].exec_menu("View = plot")}
+{Graph[5].exec_menu("View = plot")}
+{Graph[6].exec_menu("View = plot")}
